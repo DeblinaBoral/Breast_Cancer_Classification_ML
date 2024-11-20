@@ -43,6 +43,8 @@ Evaluation:
 
 Achieved 93% accuracy.
 Evaluated performance using the confusion matrix, precision, recall, and F1 score.
+
+---
 **Results:**
 
 The model reliably classifies tumors as malignant or benign, supporting efficient diagnosis.
