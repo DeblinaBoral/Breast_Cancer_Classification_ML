@@ -60,9 +60,6 @@ The model reliably classifies tumors as malignant or benign, supporting efficien
 - Improves treatment decisions and patient outcomes.
 - Supports doctors with data-driven insights.
 ---
-🤝 <span style="color: #2980B9;">Contributing</span>
-We welcome contributions! To get involved:
-
 
 
 <h3 align="center" style="color: #5DADE2;">🌟 If you found this project helpful, don’t forget to star the repo! 🌟</h3> ```
