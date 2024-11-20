@@ -27,31 +27,30 @@ sklearn for model building and evaluation
 matplotlib and seaborn for visualizations
 
 
-🎯 <span style="color: #C0392B;">Project Workflow</span>
+🎯 <span style="color: #C0392B;">**Project Workflow**</span>
 Data Cleaning & Preprocessing:
-
-Removed duplicates and missing values.
-Normalized features for better model performance.
+1. Removed duplicates and missing values.
+2. Normalized features for better model performance.
+   
 Exploratory Data Analysis (EDA):
+1. Visualized relationships between key features like tumor size, shape, and texture.
 
-Visualized relationships between key features like tumor size, shape, and texture.
 Model Implementation:
-
-Used Logistic Regression for binary classification.
-Fine-tuned hyperparameters for optimal performance.
+1. Used Logistic Regression for binary classification.
+2. Fine-tuned hyperparameters for optimal performance.
 Evaluation:
 
 Achieved 93% accuracy.
 Evaluated performance using the confusion matrix, precision, recall, and F1 score.
-Results:
+**Results:**
 
 The model reliably classifies tumors as malignant or benign, supporting efficient diagnosis.
-🧠 <span style="color: #27AE60;">Why Logistic Regression?</span>
-Logistic Regression is a powerful algorithm for binary classification tasks.
-It provides probabilities for each class, making predictions interpretable.
-Suitable for medical datasets with binary outcomes like malignant/benign classifications.
-🎉 <span style="color: #F4D03F;">Results & Impact</span>
-Model Accuracy: 93%
+🧠 <span style="color: #27AE60;">**Why Logistic Regression?**</span>
+## Logistic Regression is a powerful algorithm for binary classification tasks.
+## It provides probabilities for each class, making predictions interpretable.
+## Suitable for medical datasets with binary outcomes like malignant/benign classifications.
+🎉 <span style="color: #F4D03F;">**Results & Impact**</span>
+## Model Accuracy: 93%
 Impact:
 Facilitates early detection of breast cancer.
 Improves treatment decisions and patient outcomes.
