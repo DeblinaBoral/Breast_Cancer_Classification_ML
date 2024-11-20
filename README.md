@@ -45,16 +45,17 @@ Evaluated performance using the confusion matrix, precision, recall, and F1 scor
 **Results:**
 
 The model reliably classifies tumors as malignant or benign, supporting efficient diagnosis.
-🧠 <span style="color: #27AE60;">**Why Logistic Regression?**</span>
-## Logistic Regression is a powerful algorithm for binary classification tasks.
-## It provides probabilities for each class, making predictions interpretable.
-## Suitable for medical datasets with binary outcomes like malignant/benign classifications.
+### 🧠 <span style="color: #27AE60;">**Why Logistic Regression?**</span>
+- Logistic Regression is a powerful algorithm for binary classification tasks.
+- It provides probabilities for each class, making predictions interpretable.
+- Suitable for medical datasets with binary outcomes like malignant/benign classifications.
 🎉 <span style="color: #F4D03F;">**Results & Impact**</span>
-## Model Accuracy: 93%
-Impact:
-Facilitates early detection of breast cancer.
-Improves treatment decisions and patient outcomes.
-Supports doctors with data-driven insights.
+# Model Accuracy: 93%
+# Impact:
+- Facilitates early detection of breast cancer.
+- Improves treatment decisions and patient outcomes.
+- Supports doctors with data-driven insights.
+---
 🤝 <span style="color: #2980B9;">Contributing</span>
 We welcome contributions! To get involved:
 
