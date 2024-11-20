@@ -19,15 +19,16 @@ This project focuses on building a **Machine Learning Model** to classify breast
 - **Impact**: Improves treatment decisions, supports early diagnosis, and enhances patient outcomes.  
 
 ---
-🔧 <span style="color: #9B59B6;">Technologies Used</span>
-Language: Python 🐍
-Libraries:
-pandas and numpy for data manipulation
-sklearn for model building and evaluation
-matplotlib and seaborn for visualizations
+### 🔧 <span style="color: #9B59B6;">Technologies Used</span>
+- Language: Python 🐍
+- Libraries:
+-- pandas and numpy for data manipulation
+-- sklearn for model building and evaluation
+-- matplotlib and seaborn for visualizations
 
 
 🎯 <span style="color: #C0392B;">**Project Workflow**</span>
+
 Data Cleaning & Preprocessing:
 1. Removed duplicates and missing values.
 2. Normalized features for better model performance.
