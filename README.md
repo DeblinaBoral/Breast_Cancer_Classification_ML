@@ -19,12 +19,6 @@ This project focuses on building a **Machine Learning Model** to classify breast
 - **Impact**: Improves treatment decisions, supports early diagnosis, and enhances patient outcomes.  
 
 ---
-
-🖼️ <span style="color: #E74C3C;">Sample Outputs</span>
-Confusion Matrix 📊
-<p align="center"> <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"> </p>
-Feature Importance Chart 🔍
-<p align="center"> <img src="images/feature_importance.png" alt="Feature Importance" width="400"> </p>
 🔧 <span style="color: #9B59B6;">Technologies Used</span>
 Language: Python 🐍
 Libraries:
