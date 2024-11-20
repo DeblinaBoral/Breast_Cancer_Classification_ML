@@ -22,9 +22,9 @@ This project focuses on building a **Machine Learning Model** to classify breast
 ### 🔧 <span style="color: #9B59B6;">Technologies Used</span>
 - Language: Python 🐍
 - Libraries:
-pandas and numpy for data manipulation
-sklearn for model building and evaluation
-matplotlib and seaborn for visualizations
+1. pandas and numpy for data manipulation
+2. sklearn for model building and evaluation
+3. matplotlib and seaborn for visualizations
 
 
 🎯 <span style="color: #C0392B;">**Project Workflow**</span>
@@ -50,7 +50,8 @@ The model reliably classifies tumors as malignant or benign, supporting efficien
 - Logistic Regression is a powerful algorithm for binary classification tasks.
 - It provides probabilities for each class, making predictions interpretable.
 - Suitable for medical datasets with binary outcomes like malignant/benign classifications.
-🎉 <span style="color: #F4D03F;">**Results & Impact**</span>
+---
+### 🎉 <span style="color: #F4D03F;">**Results & Impact**</span>
 - Model Accuracy: 93%
 # Impact:
 - Facilitates early detection of breast cancer.
